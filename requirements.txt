@@ -4,3 +4,7 @@ langchain_openai
 python-dotenv
 wikipedia
 duckduckgo-search
+pypdf
+jq
+youtube-transcript-api
+pytube

@@ -2,3 +2,5 @@ langchain
 langchain_community
 langchain_openai
 python-dotenv
+wikipedia
+duckduckgo-search
